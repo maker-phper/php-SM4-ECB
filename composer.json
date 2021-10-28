@@ -15,8 +15,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Tg\\Sm4ecb\\": "src/"
+            "Sm4ecb\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
