@@ -1,5 +1,5 @@
 {
-    "name": "tg/sm4ecb",
+    "name": "maker-phper/sm4ecb",
     "description": "sm4ecb for php5.6. An encryption and decryption method.",
     "keywords": ["sm4","ecb","php5.6"],
     "type": "library",
