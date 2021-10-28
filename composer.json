@@ -18,6 +18,6 @@
         "psr-4": {
             "Sm4ecb\\": "src/"
         }
-    }
+    },
     "minimum-stability": "dev"
 }
