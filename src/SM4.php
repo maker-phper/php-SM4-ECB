@@ -354,4 +354,5 @@ class SM4
         return $by->toStr($e);
 
     }
+
 }
