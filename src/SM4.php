@@ -1,6 +1,6 @@
 <?php
 
-namespace makerPHP\sm4;
+namespace Sm4ecb;
 include_once 'Bytes.php';
 
 class SM4

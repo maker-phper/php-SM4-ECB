@@ -1,7 +1,7 @@
 <?php
 // Bytes 类
 
-namespace makerPHP\bytes;
+namespace Sm4ecb;
 
 class Bytes
 {
